@@ -1,0 +1,2 @@
+The script is Calculator.cs and the finished app is Calculator_OluwaseyiOgunrinde.apk \n\n
+The rest is majorly design.Create a new project in Unity, put this repo in your project folder, load the scene file and enter play mode to see the app if you don't use an android.
